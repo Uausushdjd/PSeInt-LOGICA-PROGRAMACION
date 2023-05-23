@@ -1,4 +1,8 @@
-# PSeInt-ejercicio1.1
+# PSeInt-ejercicio1.1 LÓGICA PROGRAMACIÓN
+<PSeInt es un entorno de desarrollo y aprendizaje de programación que se enfoca en la lógica de programación. Permite a los principiantes familiarizarse con los conceptos y estructuras fundamentales de la programación mediante un lenguaje de pseudocódigo.
+
+El pseudocódigo es un lenguaje de programación simplificado que utiliza un conjunto de instrucciones y estructuras lógicas similares a los lenguajes de programación reales, pero sin una sintaxis específica. PSeInt utiliza pseudocódigo para facilitar el aprendizaje de los conceptos básicos antes
+
 Un proyecto de pseudocódigo es una representación de un programa o algoritmo en un lenguaje intermedio que se asemeja al código real pero no está vinculado a un lenguaje de programación específico. A continuación, te proporcionaré un ejemplo de un proyecto de pseudocódigo para calcular el promedio de una lista de números:
 Inicio
 
